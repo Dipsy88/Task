@@ -1,0 +1,9 @@
+The seven problems are listed as seven separate scenarios (test cases). If you want to run them as "exe" directly they are in the folder runnable.
+
+You can install AutoIT from: https://www.autoitscript.com/site/autoit/downloads/
+
+If you want to run them from AutoIT, please open each script and press shortcut ("F5" key). The output is also printed in the tool if you run in AutoIt. 
+
+I have also added the sample "Excel1.xlsx". It has different tabs required by some problems. Please place Excel1.xlsx in the same folder as the script or change the location of the file in the scripts if you decide to move it.
+
+The document “Overall Approach” describes my approach in detail.
